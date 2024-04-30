@@ -69,4 +69,3 @@ Once the bot is running and authenticated, it will automatically reply to privat
 To stop the bot, simply interrupt the execution in your command line using `Ctrl+C`.
 
 Enjoy your automated Telegram responses with AI-powered text and voice!
-```
